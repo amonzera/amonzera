@@ -2,8 +2,6 @@
 
 # Hello, I'm Amon 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=CS+Student+%40+UFF;)](https://git.io/typing-svg)
-
 <table>
   <tr>
     <td>📍</td>
@@ -12,14 +10,6 @@
   <tr>
     <td>🎓</td>
     <td>Computer Science @ <strong>Universidade Federal Fluminense (UFF)</strong></td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td>Researching <strong>Post-Quantum Cryptography</strong> @ GTECCOM Lab</td>
-  </tr>
-  <tr>
-    <td>🛰️</td>
-    <td>Constrained systems, embedded devices & satellite tech</td>
   </tr>
   <tr>
     <td>🧠</td>
