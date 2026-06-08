@@ -11,10 +11,6 @@
     <td>🎓</td>
     <td>Computer Science @ <strong>Universidade Federal Fluminense (UFF)</strong></td>
   </tr>
-  <tr>
-    <td>🧠</td>
-    <td>Always learning. Always building.</td>
-  </tr>
 </table>
 
 ---
