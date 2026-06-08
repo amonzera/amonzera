@@ -2,9 +2,9 @@
 
 # I'm Amon 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=CS+Student+%40+UFF;Post-Quantum+Cryptography+Researcher;Hardware+Optimization+Enthusiast;CS2+Player+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=CS+Student+%40+UFF;+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=flat-square&color=6E40C9" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=amonzera&style=flat-square&color=6E40C9" alt="profile views"/>
 
 </div>
 
@@ -18,19 +18,6 @@
 🧠 Always learning. Always building.
 
 text
-
----
-
-## 🔬 Research Interests
-
-```python
-interests = {
-    "cryptography":  ["Post-Quantum Algorithms", "Lattice-based Crypto", "CRYSTALS-Kyber/Dilithium"],
-    "hardware":      ["Embedded Systems", "FPGA Optimization", "Constrained Environments"],
-    "ai_ml":         ["LLM APIs", "Machine Learning fundamentals"],
-    "3d_printing":   ["Polymer Materials", "Rapid Prototyping"],
-}
-```
 
 ---
 
