@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm [Seu Nome] 👋
+# I'm Amon 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=CS+Student+%40+UFF;Post-Quantum+Cryptography+Researcher;Hardware+Optimization+Enthusiast;CS2+Player+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
